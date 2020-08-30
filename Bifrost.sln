@@ -15,8 +15,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bifrost.Model", "Bifrost.Mo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bifrost.Common", "Bifrost.Common\Bifrost.Common.csproj", "{8CFE9436-C27B-4DD7-AF30-CD441AD9E415}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bifrost.Infrastructure", "Bifrost.Infrastructure", "{53C30416-C711-42BF-8229-8864C6684EB3}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
