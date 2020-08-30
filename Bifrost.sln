@@ -6,6 +6,10 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bifrost.UI", "Bifrost\Bifrost.UI.csproj", "{F704FD81-CD75-4003-A9D6-3AB03687E69B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9D55C360-0EEC-42F8-99CB-A81767C3D60A}"
+	ProjectSection(SolutionItems) = preProject
+		Bifrost.Infrastructure\Dockerfile = Bifrost.Infrastructure\Dockerfile
+		README.md = README.md
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bifrost.BL", "Bifrost.BL\Bifrost.BL.csproj", "{C7175AB4-9B16-4B8A-87BA-9A646BE6C212}"
 EndProject
