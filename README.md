@@ -1,8 +1,8 @@
 Bifrost is the bridge between Path Of Exile resources
 
-### TBD
+# TBD
 
-### For developers
+# For developers
 ## Setting up the environment
 1. Install docker
 2. 
